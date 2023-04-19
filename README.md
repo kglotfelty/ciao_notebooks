@@ -22,4 +22,5 @@ modifications, but should give you some ideas about what is possible.
 - `dmimgadapt_expmap_separately.ipynb` why  you should not smooth fluxed images (smooth counts and exposure separately)
 - `reproject_aspect_and_merge.ipynb` an example of reproject_aspect to improve alignment between observations.
 - `Deblend Experiment.ipynb` shows how to randomly assign individual events from overlapping sources to a specific source. 
+- `commanded_dither_parameters.ipynb` how to estimate dither parameters from Chandra engineering data.
 
